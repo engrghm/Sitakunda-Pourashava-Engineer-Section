@@ -1,0 +1,479 @@
+[
+  {
+    "id": "APP-2026-0001",
+    "formNo": "SP-7482-01",
+    "formPrice": 100,
+    "createdAt": "2026-08-27T10:25:52.058Z",
+    "status": "Pending",
+    "adminRemarks": "",
+    "proposedStructureType": "Building",
+    "buildingFloors": "৫",
+    "buildingCategory": "Residential",
+    "owners": [
+      {
+        "name": "আলহাজ্ব মো: জাফর উল্লাহ",
+        "fatherOrHusbandName": "মরহুম আব্দুল খালেক",
+        "permanentAddress": {
+          "villageOrMahalla": "শেখের পাড়া",
+          "wardNo": "০৩",
+          "upOrPourashava": "সীতাকুণ্ড পৌরসভা",
+          "thana": "সীতাকুণ্ড",
+          "upazila": "সীতাকুণ্ড",
+          "district": "চট্টগ্রাম"
+        },
+        "presentAddress": {
+          "villageOrMahalla": "মুন্সেফ পাড়া",
+          "wardNo": "০৪",
+          "upOrPourashava": "সীতাকুণ্ড পৌরসভা",
+          "thana": "সীতাকুণ্ড",
+          "upazila": "সীতাকুণ্ড",
+          "district": "চট্টগ্রাম"
+        }
+      }
+    ],
+    "mouzaName": "মহাদেবপুর",
+    "jlNo": "27",
+    "rsKhatianNo": "৪৫০",
+    "rsDagNo": "১২০৫",
+    "bsKhatianNo": "৭৮২",
+    "bsDagNo": "৩৪৮ো",
+    "mutatedBsKhatianNo": "৭৮২/ক",
+    "landQuantity": "০.১৫ একর (১৫ শতক)",
+    "landClass": "নাল (ভিটি)",
+    "deedNoAndDate": "দলিল নং ৫১২৪/২০১৮, তারিখ: ১২/০৬/২০১৮",
+    "permanentAddress": {
+      "villageOrMahalla": "শেখের পাড়া",
+      "wardNo": "০৩",
+      "upOrPourashava": "সীতাকুণ্ড পৌরসভা",
+      "thana": "সীতাকুণ্ড",
+      "upazila": "সীতাকুণ্ড",
+      "district": "চট্টগ্রাম"
+    },
+    "presentAddress": {
+      "villageOrMahalla": "মুন্সেফ পাড়া",
+      "wardNo": "০৪",
+      "upOrPourashava": "সীতাকুণ্ড পৌরসভা",
+      "thana": "সীতাকুণ্ড",
+      "upazila": "সীতাকুণ্ড",
+      "district": "চট্টগ্রাম"
+    },
+    "proposedSiteAddress": {
+      "villageOrMahalla": "মহাদেবপুর সড়ক সংলগ্ন",
+      "wardNo": "০৩",
+      "upOrPourashava": "সীতাকুণ্ড পৌরসভা",
+      "thana": "সীতাকুণ্ড",
+      "upazila": "সীতাকুণ্ড",
+      "district": "চট্টগ্রাম"
+    },
+    "applicantName": "আলহাজ্ব মো: জাফর উল্লাহ",
+    "applicantFatherOrHusbandName": "মরহুম আব্দুল খালেক",
+    "applicantMobile": "01819654321",
+    "applicantEmail": "zafar@example.com",
+    "applicationDate": "2026-06-01",
+    "attachments": [
+      {
+        "id": "1",
+        "label": "জাতীয় পরিচয়পত্র/জন্ম নিবন্ধন সনদ/পাসপোর্টের ফটোকপি (আবশ্যক)",
+        "required": true,
+        "uploaded": true,
+        "fileName": "nid_zafar.pdf",
+        "fileSize": "242 KB",
+        "fileData": "data:application/pdf;base64,JVBERi0xLjQKJdPr6gogMSAwIG9iagogIDw8L1R5cGUvQ2F0YWxvZy9QYWdlcyAyIDAgUj4+CmVuZG9iagoyIDAgb2JqagogIDw8L1R5cGUvUGFnZXMvS2lkc1szIDAgUl0vQ291bnQgMT4+CmVuZG9iagozIDAgb2JqagogIDw8L1R5cGUvUGFnZS9QYXJlbnQgMiAwIFIvTWVkaWFCb3hbMCAwIDU5NSA4NDJdL1Jlc291cmNlczw8Pj4vQ29udGVudHMgNCAwIFI+PgplbmRvYmoKNCAwIG9iagogIDw8L0xlbmd0aCAwPj5zdHJlYW0KZW5kc3RyZWFtCmVuZG9iagp4cmVmCjAgNQowMDAwMDAwMDAwIDY1NTM1IGYgCjAwMDAwMDAwMTUgMDAwMDAgbiAKMDAwMDAwMDA2MCAwMDAwMCBuIAowMDAwMDAwMTE1IDAwMDAwIG4gCjAwMDAwMDAyMjIgMDAwMDAgbiAKdHJhaWxlcagogIDw8L1NpemUgNS9Sb290IDEgMCBSPj4Kc3RhcnR4cmVmCjI3MQolJUVPRgo="
+      },
+      {
+        "id": "2",
+        "label": "ছবি (পাসপোর্ট সাইজ) (আবশ্যক)",
+        "required": true,
+        "uploaded": true,
+        "fileName": "photo_zafar.jpg",
+        "fileSize": "85 KB",
+        "fileData": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
+      },
+      {
+        "id": "3",
+        "label": "আর.এস খতিয়ান এর ফটোকপি (প্রযোজ্য ক্ষেত্রে)",
+        "required": false,
+        "uploaded": true,
+        "fileName": "rs_khatian_1205.pdf",
+        "fileSize": "320 KB"
+      },
+      {
+        "id": "4",
+        "label": "বি.এস খতিয়ান এর ফটোকপি (প্রযোজ্য ক্ষেত্রে)",
+        "required": false,
+        "uploaded": true,
+        "fileName": "bs_khatian_3480.pdf",
+        "fileSize": "344 KB"
+      },
+      {
+        "id": "5",
+        "label": "সৃজিত বি.এস খতিয়ান এর ফটোকপি",
+        "required": true,
+        "uploaded": true,
+        "fileName": "mutated_bs_782.pdf",
+        "fileSize": "180 KB"
+      },
+      {
+        "id": "6",
+        "label": "খরিদা/হেবা/দানপত্র/বণ্টননামা দলিল (রেজিস্ট্রিকৃত) এর ফটোকপি",
+        "required": true,
+        "uploaded": true,
+        "fileName": "deed_5124.pdf",
+        "fileSize": "1.2 MB"
+      },
+      {
+        "id": "7",
+        "label": "মৌজা ম্যাপ এর ফটোকপি (প্রযোজ্য ক্ষেত্রে)",
+        "required": false,
+        "uploaded": true,
+        "fileName": "mouja_map_38.jpg",
+        "fileSize": "540 KB"
+      },
+      {
+        "id": "8",
+        "label": "ওয়ারিশান সনদপত্র এর ফটোকপি (প্রযোজ্য ক্ষেত্রে)",
+        "required": false,
+        "uploaded": false
+      },
+      {
+        "id": "9",
+        "label": "অনাপত্তি পত্র (দাগের অন্যান্য মালিকগণের) এর ফটোকপি (প্রযোজ্য ক্ষেত্রে)",
+        "required": false,
+        "uploaded": false
+      },
+      {
+        "id": "10",
+        "label": "হোল্ডিং কর পরিশোধের হালনাগাদ রশিদের ফটোকপি (প্রযোজ্য ক্ষেত্রে)",
+        "required": false,
+        "uploaded": true,
+        "fileName": "holding_tax_2026.pdf",
+        "fileSize": "150 KB"
+      },
+      {
+        "id": "11",
+        "label": "আয়কর ই-রিটার্ন সার্টিফিকেট",
+        "required": false,
+        "uploaded": true,
+        "fileName": "e_return_tax.pdf",
+        "fileSize": "98 KB"
+      }
+    ]
+  },
+  {
+    "id": "APP-2026-0002",
+    "formNo": "SP-8930-02",
+    "formPrice": 100,
+    "createdAt": "2026-08-29T10:25:52.059Z",
+    "status": "Approved",
+    "adminRemarks": "भूमि সরজমিনে পরিদর্শন করা হয়েছে। আর.এস ও বি.এস দাগের সীমানা সঠিক আছে। অনুমোদন দেওয়া হলো।",
+    "proposedStructureType": "Boundary Wall",
+    "buildingCategory": "Residential",
+    "owners": [
+      {
+        "name": "মোছাম্মৎ রিজিয়া বেগম",
+        "fatherOrHusbandName": "মো: জহিরুল ইসলাম",
+        "permanentAddress": {
+          "villageOrMahalla": "হৈদার পাড়া",
+          "wardNo": "০৬",
+          "upOrPourashava": "সীতাকুণ্ড পৌরসভা",
+          "thana": "সীতাকুণ্ড",
+          "upazila": "সীতাকুণ্ড",
+          "district": "চট্টগ্রাম"
+        },
+        "presentAddress": {
+          "villageOrMahalla": "হৈদার পাড়া",
+          "wardNo": "০৬",
+          "upOrPourashava": "সীতাকুণ্ড পৌরসভা",
+          "thana": "সীতাকুণ্ড",
+          "upazila": "সীতাকুণ্ড",
+          "district": "চট্টগ্রাম"
+        }
+      }
+    ],
+    "mouzaName": "জঙ্গল মহাদেবপুর",
+    "jlNo": "30",
+    "rsKhatianNo": "৫৮",
+    "rsDagNo": "৮৯২",
+    "bsKhatianNo": "৩১২",
+    "bsDagNo": "১৮৫৪",
+    "mutatedBsKhatianNo": "",
+    "landQuantity": "০.০৮ একর (৮ শতক)",
+    "landClass": "নাল",
+    "deedNoAndDate": "দলিল নং ৩০১৪/২০২১, তারিখ: ১২/১০/২০২১",
+    "permanentAddress": {
+      "villageOrMahalla": "হৈদার পাড়া",
+      "wardNo": "০৬",
+      "upOrPourashava": "সীতাকুণ্ড পৌরসভা",
+      "thana": "সীতাকুণ্ড",
+      "upazila": "সীতাকুণ্ড",
+      "district": "চট্টগ্রাম"
+    },
+    "presentAddress": {
+      "villageOrMahalla": "হৈদার পাড়া",
+      "wardNo": "০৬",
+      "upOrPourashava": "সীতাকুণ্ড পৌরসভা",
+      "thana": "সীতাকুণ্ড",
+      "upazila": "সীতাকুণ্ড",
+      "district": "চট্টগ্রাম"
+    },
+    "proposedSiteAddress": {
+      "villageOrMahalla": "হৈদার পাড়া (বি.এস ১৮৫৪)",
+      "wardNo": "০৬",
+      "upOrPourashava": "সীতাকুণ্ড পৌরসভা",
+      "thana": "সীতাকুণ্ড",
+      "upazila": "সীতাকুণ্ড",
+      "district": "চট্টগ্রাম"
+    },
+    "applicantName": "মো: জহিরুল ইসলাম",
+    "applicantFatherOrHusbandName": "মৃত সুলতান আহমেদ",
+    "applicantMobile": "01712345678",
+    "applicantEmail": "jahir@example.com",
+    "applicationDate": "2026-06-03",
+    "attachments": [
+      {
+        "id": "1",
+        "label": "জাতীয় পরিচয়পত্র/জন্ম নিবন্ধন সনদ/পাসপোর্টের ফটোকপি (আবশ্যক)",
+        "required": true,
+        "uploaded": true,
+        "fileName": "nid_jahir.pdf",
+        "fileSize": "310 KB",
+        "fileData": "data:application/pdf;base64,JVBERi0xLjQKJdPr6gogMSAwIG9iagogIDw8L1R5cGUvQ2F0YWxvZy9QYWdlcyAyIDAgUj4+CmVuZG9iagoyIDAgb2JqagogIDw8L1R5cGUvUGFnZXMvS2lkc1szIDAgUl0vQ291bnQgMT4+CmVuZG9iagozIDAgb2JqagogIDw8L1R5cGUvUGFnZS9QYXJlbnQgMiAwIFIvTWVkaWFCb3hbMCAwIDU5NSA4NDJdL1Jlc291cmNlczw8Pj4vQ29udGVudHMgNCAwIFI+PgplbmRvYmoKNCAwIG9iagogIDw8L0xlbmd0aCAwPj5zdHJlYW0KZW5kc3RyZWFtCmVuZG9iagp4cmVmCjAgNQowMDAwMDAwMDAwIDY1NTM1IGYgCjAwMDAwMDAwMTUgMDAwMDAgbiAKMDAwMDAwMDA2MCAwMDAwMCBuIAowMDAwMDAwMTE1IDAwMDAwIG4gCjAwMDAwMDAyMjIgMDAwMDAgbiAKdHJhaWxlcagogIDw8L1NpemUgNS9Sb290IDEgMCBSPj4Kc3RhcnR4cmVmCjI3MQolJUVPRgo="
+      },
+      {
+        "id": "2",
+        "label": "ছবি (পাসপোর্ট সাইজ) (আবশ্যক)",
+        "required": true,
+        "uploaded": true,
+        "fileName": "photo_jahir.jpg",
+        "fileSize": "95 KB",
+        "fileData": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
+      },
+      {
+        "id": "3",
+        "label": "আর.এস খতিয়ান এর ফটোকপি (প্রযোজ্য ক্ষেত্রে)",
+        "required": false,
+        "uploaded": true,
+        "fileName": "rs_kh_58.pdf",
+        "fileSize": "215 KB"
+      },
+      {
+        "id": "4",
+        "label": "বি.এস খতিয়ান এর ফটোকপি (প্রযোজ্য ক্ষেত্রে)",
+        "required": false,
+        "uploaded": true,
+        "fileName": "bs_kh_312.pdf",
+        "fileSize": "410 KB"
+      },
+      {
+        "id": "5",
+        "label": "সৃজিত বি.এস খতিয়ান এর ফটোকপি",
+        "required": true,
+        "uploaded": false
+      },
+      {
+        "id": "6",
+        "label": "খরিদা/হেবা/দানপত্র/বণ্টননামা দলিল (রেজিস্ট্রিকৃত) এর ফটোকপি",
+        "required": true,
+        "uploaded": true,
+        "fileName": "deed_registry_copy.pdf",
+        "fileSize": "2.4 MB"
+      },
+      {
+        "id": "7",
+        "label": "মৌজা ম্যাপ এর ফটোকপি (প্রযোজ্য ক্ষেত্রে)",
+        "required": false,
+        "uploaded": true,
+        "fileName": "mouja_map_92.png",
+        "fileSize": "1.5 MB"
+      },
+      {
+        "id": "8",
+        "label": "ওয়ারিশান সনদপত্র এর ফটোকপি (প্রযোজ্য ক্ষেত্রে)",
+        "required": false,
+        "uploaded": false
+      },
+      {
+        "id": "9",
+        "label": "অনাপত্তি পত্র (দাগের অন্যান্য মালিকগণের) এর ফটোকপি (প্রযোজ্য ক্ষেত্রে)",
+        "required": false,
+        "uploaded": false
+      },
+      {
+        "id": "10",
+        "label": "হোল্ডিং কর পরিশোধের হালনাগাদ রশিদের ফটোকপি (প্রযোজ্য ক্ষেত্রে)",
+        "required": false,
+        "uploaded": true,
+        "fileName": "tax_slip_2026.jpg",
+        "fileSize": "335 KB"
+      },
+      {
+        "id": "11",
+        "label": "আয়কর ই-রিটারৃত সার্টিফিকেট",
+        "required": false,
+        "uploaded": false
+      }
+    ]
+  },
+  {
+    "id": "APP-2026-0003",
+    "formNo": "SP-1049-03",
+    "formPrice": 100,
+    "createdAt": "2026-08-31T10:25:52.059Z",
+    "status": "Rejected",
+    "adminRemarks": "আর.এস খতিয়ান ও বি.এস খতিয়ানের দাগ ও নামের মণ্ডলে ব্যাপক অসঙ্গতি রয়েছে এবং দখল নিয়ে স্থানীয় বিরোধ রয়েছে। পুনঃযাচাইয়ের পরামর্শ দেওয়া হলো।",
+    "proposedStructureType": "Building",
+    "buildingFloors": "১০",
+    "buildingCategory": "Commercial",
+    "owners": [
+      {
+        "name": "মেসার্স সীতাকুণ্ড স্টিল কোং",
+        "fatherOrHusbandName": "ব্যবস্থাপনা পরিচালক: মো: কামরুল হাসান",
+        "permanentAddress": {
+          "villageOrMahalla": "হালিশহর চৌধুরী পাড়া",
+          "wardNo": "১৬",
+          "upOrPourashava": "চট্টগ্রাম সিটি কর্পোরেশন",
+          "thana": "হালিশহর",
+          "upazila": "ডবলমুরিং",
+          "district": "চট্টগ্রাম"
+        },
+        "presentAddress": {
+          "villageOrMahalla": "ডেকটাওয়ার সংলগ্ন",
+          "wardNo": "০৫",
+          "upOrPourashava": "সীতাকুণ্ড পৌরসভা",
+          "thana": "সীতাকুণ্ড",
+          "upazila": "সীতাকুণ্ড",
+          "district": "চট্টগ্রাম"
+        }
+      }
+    ],
+    "mouzaName": "শিবপুর",
+    "jlNo": "19",
+    "rsKhatianNo": "১০২",
+    "rsDagNo": "৭৫",
+    "bsKhatianNo": "৪৯২",
+    "bsDagNo": "২৪১০",
+    "mutatedBsKhatianNo": "৪৯২/ক",
+    "landQuantity": "০.৪৫ একর (৪৫ শতক)",
+    "landClass": "বাণিজ্যিক জমি (নাল সংলগ্ন)",
+    "deedNoAndDate": "দলিল নং ১০৮৪/২০২২, তারিখ: ০৪/০৫/২০২২",
+    "permanentAddress": {
+      "villageOrMahalla": "হালিশহর চৌধুরী পাড়া",
+      "wardNo": "১৬",
+      "upOrPourashava": "চট্টগ্রাম সিটি কর্পোরেশন",
+      "thana": "হালিশহর",
+      "upazila": "ডবলমুরিং",
+      "district": "চট্টগ্রাম"
+    },
+    "presentAddress": {
+      "villageOrMahalla": "ডেকটাওয়ার সংলগ্ন",
+      "wardNo": "০৫",
+      "upOrPourashava": "সীতাকুণ্ড পৌরসভা",
+      "thana": "সীতাকুণ্ড",
+      "upazila": "সীতাকুণ্ড",
+      "district": "চট্টগ্রাম"
+    },
+    "proposedSiteAddress": {
+      "villageOrMahalla": "মেইন রোড কুমিরা",
+      "wardNo": "০৯",
+      "upOrPourashava": "সীতাকুণ্ড পৌরসভা",
+      "thana": "সীতাকুণ্ড",
+      "upazila": "সীতাকুণ্ড",
+      "district": "চট্টগ্রাম"
+    },
+    "applicantName": "মো: কামরুল হাসান",
+    "applicantFatherOrHusbandName": "আবুল কালাম আজাদ",
+    "applicantMobile": "01815123456",
+    "applicantEmail": "kamrul@example.com",
+    "applicationDate": "2026-06-04",
+    "attachments": [
+      {
+        "id": "1",
+        "label": "জাতীয় পরিচয়পত্র/জন্ম নিবন্ধন সনদ/পাসপোর্টের ফটোকপি (আবশ্যক)",
+        "required": true,
+        "uploaded": true,
+        "fileName": "nid_kamrul.pdf",
+        "fileSize": "1.1 MB",
+        "fileData": "data:application/pdf;base64,JVBERi0xLjQKJdPr6gogMSAwIG9iagogIDw8L1R5cGUvQ2F0YWxvZy9QYWdlcyAyIDAgUj4+CmVuZG9iagoyIDAgb2JqagogIDw8L1R5cGUvUGFnZXMvS2lkc1szIDAgUl0vQ291bnQgMT4+CmVuZG9iagozIDAgb2JqagogIDw8L1R5cGUvUGFnZS9QYXJlbnQgMiAwIFIvTWVkaWFCb3hbMCAwIDU5NSA4NDJdL1Jlc291cmNlczw8Pj4vQ29udGVudHMgNCAwIFI+PgplbmRvYmoKNCAwIG9iagogIDw8L0xlbmd0aCAwPj5zdHJlYW0KZW5kc3RyZWFtCmVuZG9iagp4cmVmCjAgNQowMDAwMDAwMDAwIDY1NTM1IGYgCjAwMDAwMDAwMTUgMDAwMDAgbiAKMDAwMDAwMDA2MCAwMDAwMCBuIAowMDAwMDAwMTE1IDAwMDAwIG4gCjAwMDAwMDAyMjIgMDAwMDAgbiAKdHJhaWxlcagogIDw8L1NpemUgNS9Sb290IDEgMCBSPj4Kc3RhcnR4cmVmCjI3MQolJUVPRgo="
+      },
+      {
+        "id": "2",
+        "label": "ছবি (পাসপোর্ট সাইজ) (আবশ্যক)",
+        "required": true,
+        "uploaded": true,
+        "fileName": "company_photo.jpg",
+        "fileSize": "120 KB",
+        "fileData": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
+      },
+      {
+        "id": "3",
+        "label": "আর.এস খতিয়ান এর ফটোকপি (প্রযোজ্য ক্ষেত্রে)",
+        "required": false,
+        "uploaded": true,
+        "fileName": "rs_khatian_75.pdf",
+        "fileSize": "480 KB"
+      },
+      {
+        "id": "4",
+        "label": "বি.এস খতিয়ান এর ফটোকপি (প্রযোজ্য ক্ষেত্রে)",
+        "required": false,
+        "uploaded": true,
+        "fileName": "bs_khatian_2410.pdf",
+        "fileSize": "530 KB"
+      },
+      {
+        "id": "5",
+        "label": "সৃজিত বি.এস খতিয়ান এর ফটোকপি",
+        "required": true,
+        "uploaded": true,
+        "fileName": "srijit_khatian.pdf",
+        "fileSize": "320 KB"
+      },
+      {
+        "id": "6",
+        "label": "খরিদা/হেবা/দানপত্র/বণ্টননামা দলিল (রেজিস্ট্রিকৃত) এর ফটোকপি",
+        "required": true,
+        "uploaded": true,
+        "fileName": "deed_commercial_1084.pdf",
+        "fileSize": "3.8 MB"
+      },
+      {
+        "id": "7",
+        "label": "মৌজা ম্যাপ এর ফটোকপি (প্রযোজ্য ক্ষেত্রে)",
+        "required": false,
+        "uploaded": true,
+        "fileName": "mouja_map_kumira.pdf",
+        "fileSize": "1.2 MB"
+      },
+      {
+        "id": "8",
+        "label": "ওয়ারিশান সনদপত্র এর ফটোকপি (প্রযোজ্য ক্ষেত্রে)",
+        "required": false,
+        "uploaded": false
+      },
+      {
+        "id": "9",
+        "label": "অনাপত্তি পত্র (দাগের অন্যান্য মালিকগণের) এর ফটোকপি (প্রযোজ্য ক্ষেত্রে)",
+        "required": false,
+        "uploaded": true,
+        "fileName": "noc_copartners.pdf",
+        "fileSize": "650 KB"
+      },
+      {
+        "id": "10",
+        "label": "হোল্ডিং কর পরিশোধের হালনাগাদ রশিদের ফটোকপি (প্রযোজ্য ক্ষেত্রে)",
+        "required": false,
+        "uploaded": true,
+        "fileName": "holding_tax_receipt.png",
+        "fileSize": "740 KB"
+      },
+      {
+        "id": "11",
+        "label": "আয়কর ই-রিটার্ন সার্টিফিকেট",
+        "required": false,
+        "uploaded": true,
+        "fileName": "tax_return_corp.pdf",
+        "fileSize": "580 KB"
+      }
+    ]
+  }
+]
